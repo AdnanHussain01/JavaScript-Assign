@@ -379,6 +379,7 @@
 
 
 // Chapter 35,36,37,38
+// start
 
 // Q1
 
@@ -505,6 +506,8 @@
 // }
 // var result = uppercase("the quick brown fox")
 // document.write(result)
+
+
 
 // Q12
 
